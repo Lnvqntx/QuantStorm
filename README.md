@@ -1,4 +1,5 @@
 # Divided Oracle — QuantStorm 2026 (QATC IITD X FEC IITG X QUANT CLUB IITB)
+# Finished 214th out of 2118
 
 <p align="center">
   <strong style="font-size: 20px;">Title Sponsors</strong>
